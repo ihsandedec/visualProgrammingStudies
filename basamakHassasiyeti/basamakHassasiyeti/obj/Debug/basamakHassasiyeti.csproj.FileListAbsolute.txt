@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\basamakHassasiyeti\basamakHassasiyeti\bin\Debug\basamakHassasiyeti.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\basamakHassasiyeti\basamakHassasiyeti\bin\Debug\basamakHassasiyeti.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\basamakHassasiyeti\basamakHassasiyeti\bin\Debug\basamakHassasiyeti.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\basamakHassasiyeti\basamakHassasiyeti\obj\Debug\basamakHassasiyeti.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\basamakHassasiyeti\basamakHassasiyeti\obj\Debug\basamakHassasiyeti.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\basamakHassasiyeti\basamakHassasiyeti\obj\Debug\basamakHassasiyeti.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\basamakHassasiyeti\basamakHassasiyeti\obj\Debug\basamakHassasiyeti.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\basamakHassasiyeti\basamakHassasiyeti\obj\Debug\basamakHassasiyeti.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\basamakHassasiyeti\basamakHassasiyeti\obj\Debug\basamakHassasiyeti.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\basamakHassasiyeti\basamakHassasiyeti\obj\Debug\basamakHassasiyeti.pdb
