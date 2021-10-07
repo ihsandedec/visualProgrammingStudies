@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\veriTipleri\veriTipleri\bin\Debug\veriTipleri.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\veriTipleri\veriTipleri\bin\Debug\veriTipleri.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\veriTipleri\veriTipleri\bin\Debug\veriTipleri.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\veriTipleri\veriTipleri\obj\Debug\veriTipleri.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\veriTipleri\veriTipleri\obj\Debug\veriTipleri.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\veriTipleri\veriTipleri\obj\Debug\veriTipleri.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\veriTipleri\veriTipleri\obj\Debug\veriTipleri.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\veriTipleri\veriTipleri\obj\Debug\veriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\veriTipleri\veriTipleri\obj\Debug\veriTipleri.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\veriTipleri\veriTipleri\obj\Debug\veriTipleri.pdb
