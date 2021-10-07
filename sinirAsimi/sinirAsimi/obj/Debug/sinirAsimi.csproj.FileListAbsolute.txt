@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\source\repos\sinirAsimi\sinirAsimi\bin\Debug\sinirAsimi.exe.config
+C:\Users\Emirhan Sipahioğlu\source\repos\sinirAsimi\sinirAsimi\bin\Debug\sinirAsimi.exe
+C:\Users\Emirhan Sipahioğlu\source\repos\sinirAsimi\sinirAsimi\bin\Debug\sinirAsimi.pdb
+C:\Users\Emirhan Sipahioğlu\source\repos\sinirAsimi\sinirAsimi\obj\Debug\sinirAsimi.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\source\repos\sinirAsimi\sinirAsimi\obj\Debug\sinirAsimi.Form1.resources
+C:\Users\Emirhan Sipahioğlu\source\repos\sinirAsimi\sinirAsimi\obj\Debug\sinirAsimi.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\source\repos\sinirAsimi\sinirAsimi\obj\Debug\sinirAsimi.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\source\repos\sinirAsimi\sinirAsimi\obj\Debug\sinirAsimi.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\source\repos\sinirAsimi\sinirAsimi\obj\Debug\sinirAsimi.exe
+C:\Users\Emirhan Sipahioğlu\source\repos\sinirAsimi\sinirAsimi\obj\Debug\sinirAsimi.pdb
