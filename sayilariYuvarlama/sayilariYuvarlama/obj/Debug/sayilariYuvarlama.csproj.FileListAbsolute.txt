@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayilariYuvarlama\sayilariYuvarlama\bin\Debug\sayilariYuvarlama.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayilariYuvarlama\sayilariYuvarlama\bin\Debug\sayilariYuvarlama.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayilariYuvarlama\sayilariYuvarlama\bin\Debug\sayilariYuvarlama.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayilariYuvarlama\sayilariYuvarlama\obj\Debug\sayilariYuvarlama.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayilariYuvarlama\sayilariYuvarlama\obj\Debug\sayilariYuvarlama.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayilariYuvarlama\sayilariYuvarlama\obj\Debug\sayilariYuvarlama.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayilariYuvarlama\sayilariYuvarlama\obj\Debug\sayilariYuvarlama.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayilariYuvarlama\sayilariYuvarlama\obj\Debug\sayilariYuvarlama.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayilariYuvarlama\sayilariYuvarlama\obj\Debug\sayilariYuvarlama.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayilariYuvarlama\sayilariYuvarlama\obj\Debug\sayilariYuvarlama.pdb
