@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayiBicimlendirme\sayiBicimlendirme\bin\Debug\sayiBicimlendirme.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayiBicimlendirme\sayiBicimlendirme\bin\Debug\sayiBicimlendirme.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayiBicimlendirme\sayiBicimlendirme\bin\Debug\sayiBicimlendirme.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayiBicimlendirme\sayiBicimlendirme\obj\Debug\sayiBicimlendirme.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayiBicimlendirme\sayiBicimlendirme\obj\Debug\sayiBicimlendirme.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayiBicimlendirme\sayiBicimlendirme\obj\Debug\sayiBicimlendirme.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayiBicimlendirme\sayiBicimlendirme\obj\Debug\sayiBicimlendirme.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayiBicimlendirme\sayiBicimlendirme\obj\Debug\sayiBicimlendirme.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayiBicimlendirme\sayiBicimlendirme\obj\Debug\sayiBicimlendirme.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\sayiBicimlendirme\sayiBicimlendirme\obj\Debug\sayiBicimlendirme.pdb
