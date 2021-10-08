@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\ozelFormat\ozelFormat\bin\Debug\ozelFormat.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\ozelFormat\ozelFormat\bin\Debug\ozelFormat.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\ozelFormat\ozelFormat\bin\Debug\ozelFormat.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\ozelFormat\ozelFormat\obj\Debug\ozelFormat.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\ozelFormat\ozelFormat\obj\Debug\ozelFormat.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\ozelFormat\ozelFormat\obj\Debug\ozelFormat.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\ozelFormat\ozelFormat\obj\Debug\ozelFormat.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\ozelFormat\ozelFormat\obj\Debug\ozelFormat.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\ozelFormat\ozelFormat\obj\Debug\ozelFormat.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\ozelFormat\ozelFormat\obj\Debug\ozelFormat.pdb
