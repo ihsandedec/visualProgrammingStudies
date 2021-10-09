@@ -1,0 +1,9 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\farkliTabandakiSayilar\farkliTabandakiSayilar\bin\Debug\farkliTabandakiSayilar.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\farkliTabandakiSayilar\farkliTabandakiSayilar\bin\Debug\farkliTabandakiSayilar.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\farkliTabandakiSayilar\farkliTabandakiSayilar\bin\Debug\farkliTabandakiSayilar.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\farkliTabandakiSayilar\farkliTabandakiSayilar\obj\Debug\farkliTabandakiSayilar.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\farkliTabandakiSayilar\farkliTabandakiSayilar\obj\Debug\farkliTabandakiSayilar.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\farkliTabandakiSayilar\farkliTabandakiSayilar\obj\Debug\farkliTabandakiSayilar.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\farkliTabandakiSayilar\farkliTabandakiSayilar\obj\Debug\farkliTabandakiSayilar.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\farkliTabandakiSayilar\farkliTabandakiSayilar\obj\Debug\farkliTabandakiSayilar.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\farkliTabandakiSayilar\farkliTabandakiSayilar\obj\Debug\farkliTabandakiSayilar.pdb
