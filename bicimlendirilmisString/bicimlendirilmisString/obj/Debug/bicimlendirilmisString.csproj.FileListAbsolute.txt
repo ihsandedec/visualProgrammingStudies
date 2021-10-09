@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\bicimlendirilmisString\bicimlendirilmisString\bin\Debug\bicimlendirilmisString.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\bicimlendirilmisString\bicimlendirilmisString\bin\Debug\bicimlendirilmisString.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\bicimlendirilmisString\bicimlendirilmisString\bin\Debug\bicimlendirilmisString.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\bicimlendirilmisString\bicimlendirilmisString\obj\Debug\bicimlendirilmisString.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\bicimlendirilmisString\bicimlendirilmisString\obj\Debug\bicimlendirilmisString.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\bicimlendirilmisString\bicimlendirilmisString\obj\Debug\bicimlendirilmisString.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\bicimlendirilmisString\bicimlendirilmisString\obj\Debug\bicimlendirilmisString.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\bicimlendirilmisString\bicimlendirilmisString\obj\Debug\bicimlendirilmisString.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\bicimlendirilmisString\bicimlendirilmisString\obj\Debug\bicimlendirilmisString.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\bicimlendirilmisString\bicimlendirilmisString\obj\Debug\bicimlendirilmisString.pdb
