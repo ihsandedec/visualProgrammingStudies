@@ -21,7 +21,7 @@ namespace hexadecimal
         {
             long decimal_sayi;
             decimal_sayi = long.Parse(textBox1.Text);
-            textBox2.Text = decimal_sayi.ToString("X8"); // 8 basamaga tamamlar.
+            textBox2.Text = decimal_sayi.ToString("X8"); // 8 basamaga tamamlar
         }
 
         private void button2_Click(object sender, EventArgs e)
