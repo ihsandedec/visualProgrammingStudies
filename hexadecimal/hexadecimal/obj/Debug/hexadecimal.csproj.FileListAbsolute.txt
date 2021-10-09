@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\hexadecimal\hexadecimal\bin\Debug\hexadecimal.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\hexadecimal\hexadecimal\bin\Debug\hexadecimal.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\hexadecimal\hexadecimal\bin\Debug\hexadecimal.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\hexadecimal\hexadecimal\obj\Debug\hexadecimal.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\hexadecimal\hexadecimal\obj\Debug\hexadecimal.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\hexadecimal\hexadecimal\obj\Debug\hexadecimal.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\hexadecimal\hexadecimal\obj\Debug\hexadecimal.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\hexadecimal\hexadecimal\obj\Debug\hexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\hexadecimal\hexadecimal\obj\Debug\hexadecimal.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\hexadecimal\hexadecimal\obj\Debug\hexadecimal.pdb
