@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\randomSayi\randomSayi\bin\Debug\randomSayi.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\randomSayi\randomSayi\bin\Debug\randomSayi.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\randomSayi\randomSayi\bin\Debug\randomSayi.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\randomSayi\randomSayi\obj\Debug\randomSayi.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\randomSayi\randomSayi\obj\Debug\randomSayi.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\randomSayi\randomSayi\obj\Debug\randomSayi.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\randomSayi\randomSayi\obj\Debug\randomSayi.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\randomSayi\randomSayi\obj\Debug\randomSayi.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\randomSayi\randomSayi\obj\Debug\randomSayi.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\randomSayi\randomSayi\obj\Debug\randomSayi.pdb
