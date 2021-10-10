@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\char\char\bin\Debug\@char.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\char\char\bin\Debug\@char.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\char\char\bin\Debug\@char.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\char\char\obj\Debug\char.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\char\char\obj\Debug\char.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\char\char\obj\Debug\char.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\char\char\obj\Debug\char.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\char\char\obj\Debug\char.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\char\char\obj\Debug\@char.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\char\char\obj\Debug\@char.pdb
