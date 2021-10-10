@@ -1,0 +1,9 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\boolean\boolean\bin\Debug\boolean.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\boolean\boolean\bin\Debug\boolean.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\boolean\boolean\bin\Debug\boolean.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\boolean\boolean\obj\Debug\boolean.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\boolean\boolean\obj\Debug\boolean.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\boolean\boolean\obj\Debug\boolean.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\boolean\boolean\obj\Debug\boolean.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\boolean\boolean\obj\Debug\boolean.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\boolean\boolean\obj\Debug\boolean.pdb
