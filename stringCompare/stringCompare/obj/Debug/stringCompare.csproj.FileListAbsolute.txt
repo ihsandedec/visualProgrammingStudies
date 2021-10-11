@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringCompare\stringCompare\bin\Debug\stringCompare.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringCompare\stringCompare\bin\Debug\stringCompare.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringCompare\stringCompare\bin\Debug\stringCompare.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringCompare\stringCompare\obj\Debug\stringCompare.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringCompare\stringCompare\obj\Debug\stringCompare.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringCompare\stringCompare\obj\Debug\stringCompare.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringCompare\stringCompare\obj\Debug\stringCompare.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringCompare\stringCompare\obj\Debug\stringCompare.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringCompare\stringCompare\obj\Debug\stringCompare.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringCompare\stringCompare\obj\Debug\stringCompare.pdb
