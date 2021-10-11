@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\kayanYazi\kayanYazi\bin\Debug\kayanYazi.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\kayanYazi\kayanYazi\bin\Debug\kayanYazi.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\kayanYazi\kayanYazi\bin\Debug\kayanYazi.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\kayanYazi\kayanYazi\obj\Debug\kayanYazi.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\kayanYazi\kayanYazi\obj\Debug\kayanYazi.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\kayanYazi\kayanYazi\obj\Debug\kayanYazi.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\kayanYazi\kayanYazi\obj\Debug\kayanYazi.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\kayanYazi\kayanYazi\obj\Debug\kayanYazi.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\kayanYazi\kayanYazi\obj\Debug\kayanYazi.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\kayanYazi\kayanYazi\obj\Debug\kayanYazi.pdb
