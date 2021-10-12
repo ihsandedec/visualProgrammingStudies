@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringFormatlama\stringFormatlama\bin\Debug\stringFormatlama.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringFormatlama\stringFormatlama\bin\Debug\stringFormatlama.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringFormatlama\stringFormatlama\bin\Debug\stringFormatlama.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringFormatlama\stringFormatlama\obj\Debug\stringFormatlama.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringFormatlama\stringFormatlama\obj\Debug\stringFormatlama.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringFormatlama\stringFormatlama\obj\Debug\stringFormatlama.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringFormatlama\stringFormatlama\obj\Debug\stringFormatlama.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringFormatlama\stringFormatlama\obj\Debug\stringFormatlama.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringFormatlama\stringFormatlama\obj\Debug\stringFormatlama.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringFormatlama\stringFormatlama\obj\Debug\stringFormatlama.pdb
