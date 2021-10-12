@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringSearch\stringSearch\bin\Debug\stringSearch.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringSearch\stringSearch\bin\Debug\stringSearch.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringSearch\stringSearch\bin\Debug\stringSearch.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringSearch\stringSearch\obj\Debug\stringSearch.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringSearch\stringSearch\obj\Debug\stringSearch.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringSearch\stringSearch\obj\Debug\stringSearch.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringSearch\stringSearch\obj\Debug\stringSearch.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringSearch\stringSearch\obj\Debug\stringSearch.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringSearch\stringSearch\obj\Debug\stringSearch.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringSearch\stringSearch\obj\Debug\stringSearch.pdb
