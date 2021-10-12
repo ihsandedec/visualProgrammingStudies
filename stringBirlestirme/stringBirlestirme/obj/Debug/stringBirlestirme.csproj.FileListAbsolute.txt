@@ -1,0 +1,9 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringBirlestirme\stringBirlestirme\bin\Debug\stringBirlestirme.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringBirlestirme\stringBirlestirme\bin\Debug\stringBirlestirme.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringBirlestirme\stringBirlestirme\bin\Debug\stringBirlestirme.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringBirlestirme\stringBirlestirme\obj\Debug\stringBirlestirme.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringBirlestirme\stringBirlestirme\obj\Debug\stringBirlestirme.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringBirlestirme\stringBirlestirme\obj\Debug\stringBirlestirme.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringBirlestirme\stringBirlestirme\obj\Debug\stringBirlestirme.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringBirlestirme\stringBirlestirme\obj\Debug\stringBirlestirme.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\Görsel Programlama\stringBirlestirme\stringBirlestirme\obj\Debug\stringBirlestirme.pdb
