@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa41_donguler_for\sayfa41_donguler_for\bin\Debug\sayfa41_donguler_for.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa41_donguler_for\sayfa41_donguler_for\bin\Debug\sayfa41_donguler_for.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa41_donguler_for\sayfa41_donguler_for\bin\Debug\sayfa41_donguler_for.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa41_donguler_for\sayfa41_donguler_for\obj\Debug\sayfa41_donguler_for.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa41_donguler_for\sayfa41_donguler_for\obj\Debug\sayfa41_donguler_for.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa41_donguler_for\sayfa41_donguler_for\obj\Debug\sayfa41_donguler_for.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa41_donguler_for\sayfa41_donguler_for\obj\Debug\sayfa41_donguler_for.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa41_donguler_for\sayfa41_donguler_for\obj\Debug\sayfa41_donguler_for.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa41_donguler_for\sayfa41_donguler_for\obj\Debug\sayfa41_donguler_for.pdb
