@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa47_ref_out\sayfa47_ref_out\bin\Debug\sayfa47_ref_out.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa47_ref_out\sayfa47_ref_out\bin\Debug\sayfa47_ref_out.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa47_ref_out\sayfa47_ref_out\bin\Debug\sayfa47_ref_out.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa47_ref_out\sayfa47_ref_out\obj\Debug\sayfa47_ref_out.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa47_ref_out\sayfa47_ref_out\obj\Debug\sayfa47_ref_out.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa47_ref_out\sayfa47_ref_out\obj\Debug\sayfa47_ref_out.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa47_ref_out\sayfa47_ref_out\obj\Debug\sayfa47_ref_out.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa47_ref_out\sayfa47_ref_out\obj\Debug\sayfa47_ref_out.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa47_ref_out\sayfa47_ref_out\obj\Debug\sayfa47_ref_out.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa47_ref_out\sayfa47_ref_out\obj\Debug\sayfa47_ref_out.pdb
