@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa43_do-while\sayfa43_do-while\bin\Debug\sayfa43_do-while.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa43_do-while\sayfa43_do-while\bin\Debug\sayfa43_do-while.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa43_do-while\sayfa43_do-while\bin\Debug\sayfa43_do-while.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa43_do-while\sayfa43_do-while\obj\Debug\sayfa43_do_while.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa43_do-while\sayfa43_do-while\obj\Debug\sayfa43_do_while.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa43_do-while\sayfa43_do-while\obj\Debug\sayfa43_do-while.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa43_do-while\sayfa43_do-while\obj\Debug\sayfa43_do-while.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa43_do-while\sayfa43_do-while\obj\Debug\sayfa43_do-while.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa43_do-while\sayfa43_do-while\obj\Debug\sayfa43_do-while.pdb
