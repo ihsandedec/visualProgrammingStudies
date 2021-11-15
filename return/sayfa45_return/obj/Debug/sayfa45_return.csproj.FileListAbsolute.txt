@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa45_return\sayfa45_return\bin\Debug\sayfa45_return.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa45_return\sayfa45_return\bin\Debug\sayfa45_return.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa45_return\sayfa45_return\bin\Debug\sayfa45_return.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa45_return\sayfa45_return\obj\Debug\sayfa45_return.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa45_return\sayfa45_return\obj\Debug\sayfa45_return.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa45_return\sayfa45_return\obj\Debug\sayfa45_return.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa45_return\sayfa45_return\obj\Debug\sayfa45_return.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa45_return\sayfa45_return\obj\Debug\sayfa45_return.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa45_return\sayfa45_return\obj\Debug\sayfa45_return.pdb
