@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sayfa65_MessageBox.Show(Mesaj,Baslik)", "sayfa65_MessageBox.Show(Mesaj,Baslik)\sayfa65_MessageBox.Show(Mesaj,Baslik).csproj", "{AD4A6E21-E356-41F5-9F10-BCDDDD082411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4A6E21-E356-41F5-9F10-BCDDDD082411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4A6E21-E356-41F5-9F10-BCDDDD082411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4A6E21-E356-41F5-9F10-BCDDDD082411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4A6E21-E356-41F5-9F10-BCDDDD082411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9789E1F2-08F3-4336-B0D5-5CD9CAEC5CF8}
+	EndGlobalSection
+EndGlobal
