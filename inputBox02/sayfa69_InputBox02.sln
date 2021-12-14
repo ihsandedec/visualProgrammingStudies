@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sayfa69_InputBox02", "sayfa69_InputBox02\sayfa69_InputBox02.csproj", "{BBD904EC-9889-4B32-AB45-99EEED5D3744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD904EC-9889-4B32-AB45-99EEED5D3744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD904EC-9889-4B32-AB45-99EEED5D3744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD904EC-9889-4B32-AB45-99EEED5D3744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD904EC-9889-4B32-AB45-99EEED5D3744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {917E1BDB-5FA4-44BF-AFBE-EBCC7425D348}
+	EndGlobalSection
+EndGlobal
