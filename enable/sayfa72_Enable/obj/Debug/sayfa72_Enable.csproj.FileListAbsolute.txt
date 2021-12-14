@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa72_Enable\sayfa72_Enable\bin\Debug\sayfa72_Enable.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa72_Enable\sayfa72_Enable\bin\Debug\sayfa72_Enable.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa72_Enable\sayfa72_Enable\bin\Debug\sayfa72_Enable.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa72_Enable\sayfa72_Enable\obj\Debug\sayfa72_Enable.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa72_Enable\sayfa72_Enable\obj\Debug\sayfa72_Enable.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa72_Enable\sayfa72_Enable\obj\Debug\sayfa72_Enable.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa72_Enable\sayfa72_Enable\obj\Debug\sayfa72_Enable.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa72_Enable\sayfa72_Enable\obj\Debug\sayfa72_Enable.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa72_Enable\sayfa72_Enable\obj\Debug\sayfa72_Enable.pdb
