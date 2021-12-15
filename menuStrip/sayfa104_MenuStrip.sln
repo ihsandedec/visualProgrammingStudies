@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sayfa104_MenuStrip", "sayfa104_MenuStrip\sayfa104_MenuStrip.csproj", "{DB5752C4-67BC-4A38-BAC6-C2E2695AD2BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5752C4-67BC-4A38-BAC6-C2E2695AD2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5752C4-67BC-4A38-BAC6-C2E2695AD2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5752C4-67BC-4A38-BAC6-C2E2695AD2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5752C4-67BC-4A38-BAC6-C2E2695AD2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F63DBE0-1082-4065-B75A-5F86586046BF}
+	EndGlobalSection
+EndGlobal

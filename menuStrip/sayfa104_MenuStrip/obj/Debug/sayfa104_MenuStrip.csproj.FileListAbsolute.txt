@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa104_MenuStrip\sayfa104_MenuStrip\bin\Debug\sayfa104_MenuStrip.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa104_MenuStrip\sayfa104_MenuStrip\bin\Debug\sayfa104_MenuStrip.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa104_MenuStrip\sayfa104_MenuStrip\bin\Debug\sayfa104_MenuStrip.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa104_MenuStrip\sayfa104_MenuStrip\obj\Debug\sayfa104_MenuStrip.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa104_MenuStrip\sayfa104_MenuStrip\obj\Debug\sayfa104_MenuStrip.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa104_MenuStrip\sayfa104_MenuStrip\obj\Debug\sayfa104_MenuStrip.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa104_MenuStrip\sayfa104_MenuStrip\obj\Debug\sayfa104_MenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa104_MenuStrip\sayfa104_MenuStrip\obj\Debug\sayfa104_MenuStrip.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa104_MenuStrip\sayfa104_MenuStrip\obj\Debug\sayfa104_MenuStrip.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa104_MenuStrip\sayfa104_MenuStrip\obj\Debug\sayfa104_MenuStrip.csproj.AssemblyReference.cache
