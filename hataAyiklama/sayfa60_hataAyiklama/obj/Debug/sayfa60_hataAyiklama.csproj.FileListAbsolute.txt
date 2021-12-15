@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa60_hataAyiklama\sayfa60_hataAyiklama\bin\Debug\sayfa60_hataAyiklama.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa60_hataAyiklama\sayfa60_hataAyiklama\bin\Debug\sayfa60_hataAyiklama.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa60_hataAyiklama\sayfa60_hataAyiklama\bin\Debug\sayfa60_hataAyiklama.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa60_hataAyiklama\sayfa60_hataAyiklama\obj\Debug\sayfa60_hataAyiklama.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa60_hataAyiklama\sayfa60_hataAyiklama\obj\Debug\sayfa60_hataAyiklama.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa60_hataAyiklama\sayfa60_hataAyiklama\obj\Debug\sayfa60_hataAyiklama.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa60_hataAyiklama\sayfa60_hataAyiklama\obj\Debug\sayfa60_hataAyiklama.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa60_hataAyiklama\sayfa60_hataAyiklama\obj\Debug\sayfa60_hataAyiklama.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa60_hataAyiklama\sayfa60_hataAyiklama\obj\Debug\sayfa60_hataAyiklama.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa60_hataAyiklama\sayfa60_hataAyiklama\obj\Debug\sayfa60_hataAyiklama.pdb
