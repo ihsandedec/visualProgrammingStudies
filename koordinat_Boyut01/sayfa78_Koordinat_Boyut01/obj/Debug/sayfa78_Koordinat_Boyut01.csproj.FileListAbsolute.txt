@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa78_Koordinat_Boyut01\sayfa78_Koordinat_Boyut01\bin\Debug\sayfa78_Koordinat_Boyut01.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa78_Koordinat_Boyut01\sayfa78_Koordinat_Boyut01\bin\Debug\sayfa78_Koordinat_Boyut01.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa78_Koordinat_Boyut01\sayfa78_Koordinat_Boyut01\bin\Debug\sayfa78_Koordinat_Boyut01.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa78_Koordinat_Boyut01\sayfa78_Koordinat_Boyut01\obj\Debug\sayfa78_Koordinat_Boyut01.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa78_Koordinat_Boyut01\sayfa78_Koordinat_Boyut01\obj\Debug\sayfa78_Koordinat_Boyut01.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa78_Koordinat_Boyut01\sayfa78_Koordinat_Boyut01\obj\Debug\sayfa78_Koordinat_Boyut01.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa78_Koordinat_Boyut01\sayfa78_Koordinat_Boyut01\obj\Debug\sayfa78_Koordinat_Boyut01.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa78_Koordinat_Boyut01\sayfa78_Koordinat_Boyut01\obj\Debug\sayfa78_Koordinat_Boyut01.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa78_Koordinat_Boyut01\sayfa78_Koordinat_Boyut01\obj\Debug\sayfa78_Koordinat_Boyut01.pdb
