@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sayfa83_Koordinant_Boyut05", "sayfa83_Koordinant_Boyut05\sayfa83_Koordinant_Boyut05.csproj", "{2C59B56B-D07F-468E-8ABB-E63532FDA93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C59B56B-D07F-468E-8ABB-E63532FDA93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C59B56B-D07F-468E-8ABB-E63532FDA93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C59B56B-D07F-468E-8ABB-E63532FDA93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C59B56B-D07F-468E-8ABB-E63532FDA93E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {300EC761-0B50-478F-8095-C89C8F857606}
+	EndGlobalSection
+EndGlobal
