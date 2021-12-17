@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa76_FontIslemleri03\sayfa76_FontIslemleri03\bin\Debug\sayfa76_FontIslemleri03.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa76_FontIslemleri03\sayfa76_FontIslemleri03\bin\Debug\sayfa76_FontIslemleri03.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa76_FontIslemleri03\sayfa76_FontIslemleri03\bin\Debug\sayfa76_FontIslemleri03.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa76_FontIslemleri03\sayfa76_FontIslemleri03\obj\Debug\sayfa76_FontIslemleri03.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa76_FontIslemleri03\sayfa76_FontIslemleri03\obj\Debug\sayfa76_FontIslemleri03.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa76_FontIslemleri03\sayfa76_FontIslemleri03\obj\Debug\sayfa76_FontIslemleri03.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa76_FontIslemleri03\sayfa76_FontIslemleri03\obj\Debug\sayfa76_FontIslemleri03.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa76_FontIslemleri03\sayfa76_FontIslemleri03\obj\Debug\sayfa76_FontIslemleri03.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa76_FontIslemleri03\sayfa76_FontIslemleri03\obj\Debug\sayfa76_FontIslemleri03.pdb
