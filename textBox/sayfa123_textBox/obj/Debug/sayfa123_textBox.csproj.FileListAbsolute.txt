@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa123_textBox\sayfa123_textBox\bin\Debug\sayfa123_textBox.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa123_textBox\sayfa123_textBox\bin\Debug\sayfa123_textBox.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa123_textBox\sayfa123_textBox\bin\Debug\sayfa123_textBox.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa123_textBox\sayfa123_textBox\obj\Debug\sayfa123_textBox.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa123_textBox\sayfa123_textBox\obj\Debug\sayfa123_textBox.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa123_textBox\sayfa123_textBox\obj\Debug\sayfa123_textBox.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa123_textBox\sayfa123_textBox\obj\Debug\sayfa123_textBox.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa123_textBox\sayfa123_textBox\obj\Debug\sayfa123_textBox.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa123_textBox\sayfa123_textBox\obj\Debug\sayfa123_textBox.pdb
