@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa74_fontIslemleri01\sayfa74_fontIslemleri01\bin\Debug\sayfa74_fontIslemleri01.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa74_fontIslemleri01\sayfa74_fontIslemleri01\bin\Debug\sayfa74_fontIslemleri01.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa74_fontIslemleri01\sayfa74_fontIslemleri01\bin\Debug\sayfa74_fontIslemleri01.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa74_fontIslemleri01\sayfa74_fontIslemleri01\obj\Debug\sayfa74_fontIslemleri01.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa74_fontIslemleri01\sayfa74_fontIslemleri01\obj\Debug\sayfa74_fontIslemleri01.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa74_fontIslemleri01\sayfa74_fontIslemleri01\obj\Debug\sayfa74_fontIslemleri01.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa74_fontIslemleri01\sayfa74_fontIslemleri01\obj\Debug\sayfa74_fontIslemleri01.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa74_fontIslemleri01\sayfa74_fontIslemleri01\obj\Debug\sayfa74_fontIslemleri01.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa74_fontIslemleri01\sayfa74_fontIslemleri01\obj\Debug\sayfa74_fontIslemleri01.pdb
