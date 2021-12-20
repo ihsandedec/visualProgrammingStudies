@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa125_Undo_CanUndo\sayfa125_Undo_CanUndo\bin\Debug\sayfa125_Undo_CanUndo.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa125_Undo_CanUndo\sayfa125_Undo_CanUndo\bin\Debug\sayfa125_Undo_CanUndo.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa125_Undo_CanUndo\sayfa125_Undo_CanUndo\bin\Debug\sayfa125_Undo_CanUndo.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa125_Undo_CanUndo\sayfa125_Undo_CanUndo\obj\Debug\sayfa125_Undo_CanUndo.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa125_Undo_CanUndo\sayfa125_Undo_CanUndo\obj\Debug\sayfa125_Undo_CanUndo.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa125_Undo_CanUndo\sayfa125_Undo_CanUndo\obj\Debug\sayfa125_Undo_CanUndo.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa125_Undo_CanUndo\sayfa125_Undo_CanUndo\obj\Debug\sayfa125_Undo_CanUndo.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa125_Undo_CanUndo\sayfa125_Undo_CanUndo\obj\Debug\sayfa125_Undo_CanUndo.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa125_Undo_CanUndo\sayfa125_Undo_CanUndo\obj\Debug\sayfa125_Undo_CanUndo.pdb
