@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sayfa114_Formlara_Sekil_Verme_Yontem1", "sayfa114_Formlara_Sekil_Verme_Yontem1\sayfa114_Formlara_Sekil_Verme_Yontem1.csproj", "{459D9E24-315A-4B09-B76C-B9D440389D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{459D9E24-315A-4B09-B76C-B9D440389D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459D9E24-315A-4B09-B76C-B9D440389D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459D9E24-315A-4B09-B76C-B9D440389D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459D9E24-315A-4B09-B76C-B9D440389D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44CCCABA-5C46-409F-94C1-BB3E1CC15D0E}
+	EndGlobalSection
+EndGlobal
