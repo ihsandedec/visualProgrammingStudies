@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa144_Items.AddRange\sayfa144_Items.AddRange\bin\Debug\sayfa144_Items.AddRange.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa144_Items.AddRange\sayfa144_Items.AddRange\bin\Debug\sayfa144_Items.AddRange.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa144_Items.AddRange\sayfa144_Items.AddRange\bin\Debug\sayfa144_Items.AddRange.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa144_Items.AddRange\sayfa144_Items.AddRange\obj\Debug\sayfa144_Items.AddRange.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa144_Items.AddRange\sayfa144_Items.AddRange\obj\Debug\sayfa144_Items.AddRange.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa144_Items.AddRange\sayfa144_Items.AddRange\obj\Debug\sayfa144_Items.AddRange.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa144_Items.AddRange\sayfa144_Items.AddRange\obj\Debug\sayfa144_Items.AddRange.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa144_Items.AddRange\sayfa144_Items.AddRange\obj\Debug\sayfa144_Items.AddRange.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa144_Items.AddRange\sayfa144_Items.AddRange\obj\Debug\sayfa144_Items.AddRange.pdb
