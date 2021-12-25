@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayaf108_Closing_null\sayaf108_Closing_null\bin\Debug\sayaf108_Closing_null.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayaf108_Closing_null\sayaf108_Closing_null\bin\Debug\sayaf108_Closing_null.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayaf108_Closing_null\sayaf108_Closing_null\bin\Debug\sayaf108_Closing_null.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayaf108_Closing_null\sayaf108_Closing_null\obj\Debug\sayaf108_Closing_null.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayaf108_Closing_null\sayaf108_Closing_null\obj\Debug\sayaf108_Closing_null.Form2.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayaf108_Closing_null\sayaf108_Closing_null\obj\Debug\sayaf108_Closing_null.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayaf108_Closing_null\sayaf108_Closing_null\obj\Debug\sayaf108_Closing_null.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayaf108_Closing_null\sayaf108_Closing_null\obj\Debug\sayaf108_Closing_null.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayaf108_Closing_null\sayaf108_Closing_null\obj\Debug\sayaf108_Closing_null.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayaf108_Closing_null\sayaf108_Closing_null\obj\Debug\sayaf108_Closing_null.pdb
