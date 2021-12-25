@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sayfa107_Closing_kapat_gizle", "sayfa107_Closing_kapat_gizle\sayfa107_Closing_kapat_gizle.csproj", "{20781256-111F-4A71-A66C-11779D527D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20781256-111F-4A71-A66C-11779D527D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20781256-111F-4A71-A66C-11779D527D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20781256-111F-4A71-A66C-11779D527D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20781256-111F-4A71-A66C-11779D527D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {382620AC-8D23-42A5-B0B5-417CBC335BC2}
+	EndGlobalSection
+EndGlobal

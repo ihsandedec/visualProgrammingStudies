@@ -1,0 +1,10 @@
+C:\Users\DEDEC\source\repos\sayfa107_Closing_kapat_gizle\sayfa107_Closing_kapat_gizle\bin\Debug\sayfa107_Closing_kapat_gizle.exe.config
+C:\Users\DEDEC\source\repos\sayfa107_Closing_kapat_gizle\sayfa107_Closing_kapat_gizle\bin\Debug\sayfa107_Closing_kapat_gizle.exe
+C:\Users\DEDEC\source\repos\sayfa107_Closing_kapat_gizle\sayfa107_Closing_kapat_gizle\bin\Debug\sayfa107_Closing_kapat_gizle.pdb
+C:\Users\DEDEC\source\repos\sayfa107_Closing_kapat_gizle\sayfa107_Closing_kapat_gizle\obj\Debug\sayfa107_Closing_kapat_gizle.Form1.resources
+C:\Users\DEDEC\source\repos\sayfa107_Closing_kapat_gizle\sayfa107_Closing_kapat_gizle\obj\Debug\sayfa107_Closing_kapat_gizle.Form2.resources
+C:\Users\DEDEC\source\repos\sayfa107_Closing_kapat_gizle\sayfa107_Closing_kapat_gizle\obj\Debug\sayfa107_Closing_kapat_gizle.Properties.Resources.resources
+C:\Users\DEDEC\source\repos\sayfa107_Closing_kapat_gizle\sayfa107_Closing_kapat_gizle\obj\Debug\sayfa107_Closing_kapat_gizle.csproj.GenerateResource.cache
+C:\Users\DEDEC\source\repos\sayfa107_Closing_kapat_gizle\sayfa107_Closing_kapat_gizle\obj\Debug\sayfa107_Closing_kapat_gizle.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\source\repos\sayfa107_Closing_kapat_gizle\sayfa107_Closing_kapat_gizle\obj\Debug\sayfa107_Closing_kapat_gizle.exe
+C:\Users\DEDEC\source\repos\sayfa107_Closing_kapat_gizle\sayfa107_Closing_kapat_gizle\obj\Debug\sayfa107_Closing_kapat_gizle.pdb
