@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa117_MDI_Formlar02\sayfa117_MDI_Formlar02\bin\Debug\sayfa117_MDI_Formlar02.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa117_MDI_Formlar02\sayfa117_MDI_Formlar02\bin\Debug\sayfa117_MDI_Formlar02.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa117_MDI_Formlar02\sayfa117_MDI_Formlar02\bin\Debug\sayfa117_MDI_Formlar02.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa117_MDI_Formlar02\sayfa117_MDI_Formlar02\obj\Debug\sayfa117_MDI_Formlar02.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa117_MDI_Formlar02\sayfa117_MDI_Formlar02\obj\Debug\sayfa117_MDI_Formlar02.MDIParent1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa117_MDI_Formlar02\sayfa117_MDI_Formlar02\obj\Debug\sayfa117_MDI_Formlar02.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa117_MDI_Formlar02\sayfa117_MDI_Formlar02\obj\Debug\sayfa117_MDI_Formlar02.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa117_MDI_Formlar02\sayfa117_MDI_Formlar02\obj\Debug\sayfa117_MDI_Formlar02.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa117_MDI_Formlar02\sayfa117_MDI_Formlar02\obj\Debug\sayfa117_MDI_Formlar02.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa117_MDI_Formlar02\sayfa117_MDI_Formlar02\obj\Debug\sayfa117_MDI_Formlar02.pdb
