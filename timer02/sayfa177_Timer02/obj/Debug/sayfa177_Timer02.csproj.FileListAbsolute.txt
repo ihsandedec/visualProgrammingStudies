@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa177_Timer02\sayfa177_Timer02\bin\Debug\sayfa177_Timer02.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa177_Timer02\sayfa177_Timer02\bin\Debug\sayfa177_Timer02.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa177_Timer02\sayfa177_Timer02\bin\Debug\sayfa177_Timer02.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa177_Timer02\sayfa177_Timer02\obj\Debug\sayfa177_Timer02.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa177_Timer02\sayfa177_Timer02\obj\Debug\sayfa177_Timer02.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa177_Timer02\sayfa177_Timer02\obj\Debug\sayfa177_Timer02.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa177_Timer02\sayfa177_Timer02\obj\Debug\sayfa177_Timer02.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa177_Timer02\sayfa177_Timer02\obj\Debug\sayfa177_Timer02.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa177_Timer02\sayfa177_Timer02\obj\Debug\sayfa177_Timer02.pdb
