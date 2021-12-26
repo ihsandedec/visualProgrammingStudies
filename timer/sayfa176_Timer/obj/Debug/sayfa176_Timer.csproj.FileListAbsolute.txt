@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa176_Timer\sayfa176_Timer\bin\Debug\sayfa176_Timer.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa176_Timer\sayfa176_Timer\bin\Debug\sayfa176_Timer.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa176_Timer\sayfa176_Timer\bin\Debug\sayfa176_Timer.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa176_Timer\sayfa176_Timer\obj\Debug\sayfa176_Timer.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa176_Timer\sayfa176_Timer\obj\Debug\sayfa176_Timer.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa176_Timer\sayfa176_Timer\obj\Debug\sayfa176_Timer.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa176_Timer\sayfa176_Timer\obj\Debug\sayfa176_Timer.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa176_Timer\sayfa176_Timer\obj\Debug\sayfa176_Timer.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa176_Timer\sayfa176_Timer\obj\Debug\sayfa176_Timer.pdb
