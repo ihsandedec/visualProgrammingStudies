@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sayfa20_enum", "sayfa20_enum\sayfa20_enum.csproj", "{CC50C611-3CAF-4F15-989C-6EA3B347FB67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC50C611-3CAF-4F15-989C-6EA3B347FB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC50C611-3CAF-4F15-989C-6EA3B347FB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC50C611-3CAF-4F15-989C-6EA3B347FB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC50C611-3CAF-4F15-989C-6EA3B347FB67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4784E1C1-F051-417C-A034-5D5FFBF2145D}
+	EndGlobalSection
+EndGlobal
