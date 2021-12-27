@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa18_TipDonusumleri\sayfa18_TipDonusumleri\bin\Debug\sayfa18_TipDonusumleri.exe.config
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa18_TipDonusumleri\sayfa18_TipDonusumleri\bin\Debug\sayfa18_TipDonusumleri.exe
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa18_TipDonusumleri\sayfa18_TipDonusumleri\bin\Debug\sayfa18_TipDonusumleri.pdb
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa18_TipDonusumleri\sayfa18_TipDonusumleri\obj\Debug\sayfa18_TipDonusumleri.Form1.resources
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa18_TipDonusumleri\sayfa18_TipDonusumleri\obj\Debug\sayfa18_TipDonusumleri.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa18_TipDonusumleri\sayfa18_TipDonusumleri\obj\Debug\sayfa18_TipDonusumleri.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa18_TipDonusumleri\sayfa18_TipDonusumleri\obj\Debug\sayfa18_TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa18_TipDonusumleri\sayfa18_TipDonusumleri\obj\Debug\sayfa18_TipDonusumleri.exe
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa18_TipDonusumleri\sayfa18_TipDonusumleri\obj\Debug\sayfa18_TipDonusumleri.pdb
