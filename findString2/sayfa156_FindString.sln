@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sayfa156_FindString", "sayfa156_FindString\sayfa156_FindString.csproj", "{06AFDE07-5730-4E70-A833-FBCF289F882F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06AFDE07-5730-4E70-A833-FBCF289F882F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06AFDE07-5730-4E70-A833-FBCF289F882F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06AFDE07-5730-4E70-A833-FBCF289F882F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06AFDE07-5730-4E70-A833-FBCF289F882F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {796148E1-F98B-44D7-AB9A-49014D725382}
+	EndGlobalSection
+EndGlobal
