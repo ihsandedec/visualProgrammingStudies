@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa154_FindStringExat\sayfa154_FindStringExat\bin\Debug\sayfa154_FindStringExat.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa154_FindStringExat\sayfa154_FindStringExat\bin\Debug\sayfa154_FindStringExat.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa154_FindStringExat\sayfa154_FindStringExat\bin\Debug\sayfa154_FindStringExat.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa154_FindStringExat\sayfa154_FindStringExat\obj\Debug\sayfa154_FindStringExat.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa154_FindStringExat\sayfa154_FindStringExat\obj\Debug\sayfa154_FindStringExat.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa154_FindStringExat\sayfa154_FindStringExat\obj\Debug\sayfa154_FindStringExat.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa154_FindStringExat\sayfa154_FindStringExat\obj\Debug\sayfa154_FindStringExat.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa154_FindStringExat\sayfa154_FindStringExat\obj\Debug\sayfa154_FindStringExat.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa154_FindStringExat\sayfa154_FindStringExat\obj\Debug\sayfa154_FindStringExat.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa154_FindStringExat\sayfa154_FindStringExat\obj\Debug\sayfa154_FindStringExat.pdb
