@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa147_Items_IndexOf\sayfa147_Items_IndexOf\bin\Debug\sayfa147_Items_IndexOf.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa147_Items_IndexOf\sayfa147_Items_IndexOf\bin\Debug\sayfa147_Items_IndexOf.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa147_Items_IndexOf\sayfa147_Items_IndexOf\bin\Debug\sayfa147_Items_IndexOf.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa147_Items_IndexOf\sayfa147_Items_IndexOf\obj\Debug\sayfa147_Items_IndexOf.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa147_Items_IndexOf\sayfa147_Items_IndexOf\obj\Debug\sayfa147_Items_IndexOf.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa147_Items_IndexOf\sayfa147_Items_IndexOf\obj\Debug\sayfa147_Items_IndexOf.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa147_Items_IndexOf\sayfa147_Items_IndexOf\obj\Debug\sayfa147_Items_IndexOf.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa147_Items_IndexOf\sayfa147_Items_IndexOf\obj\Debug\sayfa147_Items_IndexOf.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa147_Items_IndexOf\sayfa147_Items_IndexOf\obj\Debug\sayfa147_Items_IndexOf.pdb
