@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_Ticks\sayfa17_Ticks\bin\Debug\sayfa17_Ticks.exe.config
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_Ticks\sayfa17_Ticks\bin\Debug\sayfa17_Ticks.exe
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_Ticks\sayfa17_Ticks\bin\Debug\sayfa17_Ticks.pdb
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_Ticks\sayfa17_Ticks\obj\Debug\sayfa17_Ticks.Form1.resources
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_Ticks\sayfa17_Ticks\obj\Debug\sayfa17_Ticks.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_Ticks\sayfa17_Ticks\obj\Debug\sayfa17_Ticks.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_Ticks\sayfa17_Ticks\obj\Debug\sayfa17_Ticks.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_Ticks\sayfa17_Ticks\obj\Debug\sayfa17_Ticks.exe
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_Ticks\sayfa17_Ticks\obj\Debug\sayfa17_Ticks.pdb
