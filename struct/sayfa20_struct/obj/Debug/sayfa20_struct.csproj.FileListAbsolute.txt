@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa20_struct\sayfa20_struct\bin\Debug\sayfa20_struct.exe.config
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa20_struct\sayfa20_struct\bin\Debug\sayfa20_struct.exe
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa20_struct\sayfa20_struct\bin\Debug\sayfa20_struct.pdb
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa20_struct\sayfa20_struct\obj\Debug\sayfa20_struct.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa20_struct\sayfa20_struct\obj\Debug\sayfa20_struct.Form1.resources
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa20_struct\sayfa20_struct\obj\Debug\sayfa20_struct.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa20_struct\sayfa20_struct\obj\Debug\sayfa20_struct.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa20_struct\sayfa20_struct\obj\Debug\sayfa20_struct.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa20_struct\sayfa20_struct\obj\Debug\sayfa20_struct.exe
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa20_struct\sayfa20_struct\obj\Debug\sayfa20_struct.pdb
