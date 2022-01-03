@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_objectTipi\sayfa17_objectTipi\bin\Debug\sayfa17_objectTipi.exe.config
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_objectTipi\sayfa17_objectTipi\bin\Debug\sayfa17_objectTipi.exe
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_objectTipi\sayfa17_objectTipi\bin\Debug\sayfa17_objectTipi.pdb
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_objectTipi\sayfa17_objectTipi\obj\Debug\sayfa17_objectTipi.Form1.resources
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_objectTipi\sayfa17_objectTipi\obj\Debug\sayfa17_objectTipi.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_objectTipi\sayfa17_objectTipi\obj\Debug\sayfa17_objectTipi.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_objectTipi\sayfa17_objectTipi\obj\Debug\sayfa17_objectTipi.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_objectTipi\sayfa17_objectTipi\obj\Debug\sayfa17_objectTipi.exe
+C:\Users\DEDEC\Desktop\İhsan_Dedeç_192113025_GP\sayfa17_objectTipi\sayfa17_objectTipi\obj\Debug\sayfa17_objectTipi.pdb
