@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa205_richTextBox\sayfa205_richTextBox\bin\Debug\sayfa205_richTextBox.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa205_richTextBox\sayfa205_richTextBox\bin\Debug\sayfa205_richTextBox.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa205_richTextBox\sayfa205_richTextBox\bin\Debug\sayfa205_richTextBox.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa205_richTextBox\sayfa205_richTextBox\obj\Debug\sayfa205_richTextBox.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa205_richTextBox\sayfa205_richTextBox\obj\Debug\sayfa205_richTextBox.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa205_richTextBox\sayfa205_richTextBox\obj\Debug\sayfa205_richTextBox.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa205_richTextBox\sayfa205_richTextBox\obj\Debug\sayfa205_richTextBox.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa205_richTextBox\sayfa205_richTextBox\obj\Debug\sayfa205_richTextBox.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa205_richTextBox\sayfa205_richTextBox\obj\Debug\sayfa205_richTextBox.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa205_richTextBox\sayfa205_richTextBox\obj\Debug\sayfa205_richTextBox.pdb
