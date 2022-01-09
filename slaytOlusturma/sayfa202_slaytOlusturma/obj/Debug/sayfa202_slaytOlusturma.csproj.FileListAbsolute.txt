@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa202_slaytOlusturma\sayfa202_slaytOlusturma\bin\Debug\sayfa202_slaytOlusturma.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa202_slaytOlusturma\sayfa202_slaytOlusturma\bin\Debug\sayfa202_slaytOlusturma.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa202_slaytOlusturma\sayfa202_slaytOlusturma\bin\Debug\sayfa202_slaytOlusturma.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa202_slaytOlusturma\sayfa202_slaytOlusturma\obj\Debug\sayfa202_slaytOlusturma.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa202_slaytOlusturma\sayfa202_slaytOlusturma\obj\Debug\sayfa202_slaytOlusturma.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa202_slaytOlusturma\sayfa202_slaytOlusturma\obj\Debug\sayfa202_slaytOlusturma.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa202_slaytOlusturma\sayfa202_slaytOlusturma\obj\Debug\sayfa202_slaytOlusturma.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa202_slaytOlusturma\sayfa202_slaytOlusturma\obj\Debug\sayfa202_slaytOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa202_slaytOlusturma\sayfa202_slaytOlusturma\obj\Debug\sayfa202_slaytOlusturma.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa202_slaytOlusturma\sayfa202_slaytOlusturma\obj\Debug\sayfa202_slaytOlusturma.pdb
