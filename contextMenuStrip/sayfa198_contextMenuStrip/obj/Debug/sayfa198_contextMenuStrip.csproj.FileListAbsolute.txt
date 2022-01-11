@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa198_contextMenuStrip\sayfa198_contextMenuStrip\bin\Debug\sayfa198_contextMenuStrip.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa198_contextMenuStrip\sayfa198_contextMenuStrip\bin\Debug\sayfa198_contextMenuStrip.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa198_contextMenuStrip\sayfa198_contextMenuStrip\bin\Debug\sayfa198_contextMenuStrip.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa198_contextMenuStrip\sayfa198_contextMenuStrip\obj\Debug\sayfa198_contextMenuStrip.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa198_contextMenuStrip\sayfa198_contextMenuStrip\obj\Debug\sayfa198_contextMenuStrip.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa198_contextMenuStrip\sayfa198_contextMenuStrip\obj\Debug\sayfa198_contextMenuStrip.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa198_contextMenuStrip\sayfa198_contextMenuStrip\obj\Debug\sayfa198_contextMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa198_contextMenuStrip\sayfa198_contextMenuStrip\obj\Debug\sayfa198_contextMenuStrip.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa198_contextMenuStrip\sayfa198_contextMenuStrip\obj\Debug\sayfa198_contextMenuStrip.pdb
