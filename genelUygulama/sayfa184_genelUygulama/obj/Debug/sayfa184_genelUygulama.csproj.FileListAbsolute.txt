@@ -1,0 +1,10 @@
+C:\Users\DEDEC\source\repos\sayfa184_genelUygulama\sayfa184_genelUygulama\bin\Debug\sayfa184_genelUygulama.exe.config
+C:\Users\DEDEC\source\repos\sayfa184_genelUygulama\sayfa184_genelUygulama\bin\Debug\sayfa184_genelUygulama.exe
+C:\Users\DEDEC\source\repos\sayfa184_genelUygulama\sayfa184_genelUygulama\bin\Debug\sayfa184_genelUygulama.pdb
+C:\Users\DEDEC\source\repos\sayfa184_genelUygulama\sayfa184_genelUygulama\obj\Debug\sayfa184_genelUygulama.csproj.AssemblyReference.cache
+C:\Users\DEDEC\source\repos\sayfa184_genelUygulama\sayfa184_genelUygulama\obj\Debug\sayfa184_genelUygulama.Form1.resources
+C:\Users\DEDEC\source\repos\sayfa184_genelUygulama\sayfa184_genelUygulama\obj\Debug\sayfa184_genelUygulama.Properties.Resources.resources
+C:\Users\DEDEC\source\repos\sayfa184_genelUygulama\sayfa184_genelUygulama\obj\Debug\sayfa184_genelUygulama.csproj.GenerateResource.cache
+C:\Users\DEDEC\source\repos\sayfa184_genelUygulama\sayfa184_genelUygulama\obj\Debug\sayfa184_genelUygulama.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\source\repos\sayfa184_genelUygulama\sayfa184_genelUygulama\obj\Debug\sayfa184_genelUygulama.exe
+C:\Users\DEDEC\source\repos\sayfa184_genelUygulama\sayfa184_genelUygulama\obj\Debug\sayfa184_genelUygulama.pdb
